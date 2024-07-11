@@ -8,6 +8,7 @@ li {
   text-align: center;
   list-style-type: none;
   margin: 40px;
+  padding: 0px;
   
 }
 
@@ -19,4 +20,8 @@ a {
   font-weight: bold;
   padding: 8px 64px;
   outline-style: dashed;
+}
+
+ul {
+  padding: 0px;
 }
